@@ -86,7 +86,7 @@ Optional:
 ### 🔗 Connect with Me
 
 *   📧 Email: **vishshaji03@gmail.com**
-*   💼 LinkedIn: [linkedin.com/in/vishalshaji(https://linkedin.com/in/vishalshaji)
+*   💼 LinkedIn: (https://linkedin.com/in/vishalshaji)
 
 ---
 
