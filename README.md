@@ -34,7 +34,6 @@ Here are some of the technologies and tools I work with:
 | **Networking**    | `VPC` `Load Balancers` `Cloudflare` `DNS Management`                         |
 | **Other Tools**   | `Git` `VS Code` `Unreal Engine`                                              |
 
-*You can also use icons here if you prefer:*
 <!--
 Example with icons:
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,aws,gcp,docker,kubernetes,terraform,githubactions,python,bash,dynamodb,firestore,cloudflare)](https://skillicons.dev)
@@ -66,8 +65,6 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 ### 🏆 Certifications
 
 *   **AWS Certified Cloud Practitioner**
-    *   *(You can add a badge link from Credly or AWS here if you have one)*
-
 ---
 
 ### 📊 My GitHub Stats
