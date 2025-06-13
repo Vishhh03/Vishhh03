@@ -48,17 +48,17 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 1.  **Terraless - Server Hosting Website**
     *   **Description:** A platform for AWS EC2-based dedicated server hosting, featuring an AWS Amplify frontend and AWS Lambda backend. Includes automated Linux scripting for server provisioning.
     *   **Tech Stack:** `AWS EC2`, `AWS Amplify`, `AWS Lambda`, `Linux Scripting`
-    *   **Link:** `[GitHub Repo Link]` `[Live Demo Link - if available]`
+    *   **Link:** `<!--[GitHub Repo Link]` `[Live Demo Link - if available]`-->
 
 2.  **Idha - Art Gallery Website**
     *   **Description:** A visually captivating website for an art gallery in Fort Kochi, focusing on storytelling and responsive design.
-    *   **Tech Stack:** `React`, `JavaScript`, `HTML`, `CSS`
-    *   **Link:** `[GitHub Repo Link]` `[Live Demo Link - if available]`
+    *   **Tech Stack:** `NextJs`, `React`, `JavaScript`, `HTML`, `CSS`
+    *   **Link:** `<!--[GitHub Repo Link]` `[Live Demo Link - if available]`-->
 
 3.  **Homebaker Website**
     *   **Description:** A search-engine-style platform for homebakers to list and showcase their services, built with React for performance and intuitive UX, integrated with cloud services for scalability.
     *   **Tech Stack:** `React`, `Cloud Services (AWS/GCP)`
-    *   **Link:** `[GitHub Repo Link]` `[Live Demo Link - if available]`
+    *   **Link:** `<!--[GitHub Repo Link]` `[Live Demo Link - if available]`-->
 
 ---
 
