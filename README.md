@@ -25,18 +25,18 @@ Here are some of the technologies and tools I work with:
 
 | Category          | Technologies                                                                 |
 | ----------------- | ---------------------------------------------------------------------------- |
-| **Frontend**      | `React` `JavaScript (ES6+)` `NextJs` `HTML5` `CSS3`                                     |
-| **Cloud Platforms** | `AWS` `GCP`                                                                  |
-| **AWS Services**  | `EC2` `Lambda` `Amplify` `S3` `DynamoDB` `CloudFormation` `VPC` `Load Balancers` |
-| **DevOps & CI/CD**| `Docker` `Kubernetes` `Terraform` `GitHub Actions`                             |
+| **Frontend**      | `React` `JavaScript` `NextJs` `HTML5` `CSS3`  `Tailwind`                     |
+| **Backend**       | `Django` `ExpressJS` `.NET 8`
+| **Cloud Platforms** | `AWS` `GCP` `OCI`                                                          |
+| **AWS Services**  | `EC2` `Lambda` `Amplify` `S3` `DynamoDB` `CloudFormation` `Cognito` `SQS` `IAM`  |
+| **DevOps & CI/CD**| `Docker` `Kubernetes` `Terraform` `Jenkings` `Prometheus` `Grafana`          |
 | **Scripting**     | `Python` `Bash/Shell`                                                        |
-| **Databases**     | `DynamoDB` `Firestore`                                                       |
 | **Networking**    | `VPC` `Load Balancers` `Cloudflare` `DNS Management`                         |
 | **Other Tools**   | `Git` `VS Code` `Unreal Engine`                                              |
 
 <!--
 Example with icons:
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,aws,gcp,docker,kubernetes,terraform,githubactions,python,bash,dynamodb,firestore,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,aws,gcp,docker,kubernetes,terraform,prometheus,grafana,django,python,bash,dynamodb,cloudflare)](https://skillicons.dev)
 -->
 
 ---
@@ -65,6 +65,9 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 ### 🏆 Certifications
 
 *   **AWS Certified Cloud Practitioner**
+*   **OCI Certified Architect Associate**
+*   **OCI Certified Foundations Associate**
+*   **OCI Certified AI Foundations Associate**
 ---
 
 ### 📊 My GitHub Stats
