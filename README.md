@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=220&section=header&text=Vishal%20Shaji&fontSize=80&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" alt="Vishal Shaji Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=220&section=header&text=Vishal%20Shaji&fontSize=80&fontAlignY=35&desc=Cloud%20and%20DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" alt="Vishal Shaji Header" />
   
   <p>
     <a href="https://linkedin.com/in/VishalShaji">
