@@ -1,17 +1,15 @@
 <div align="center">
-  <h1>Vishal Shaji</h1>
-  <h3>Frontend Cloud Engineer | AWS Certified</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=220&section=header&text=Vishal%20Shaji&fontSize=80&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" alt="Vishal Shaji Header" />
   
   <p>
-    <b>React • Next.js • AWS • DevOps</b>
-  </p>
-
-  <p>
-    <a href="https://linkedin.com/in/vishalshaji">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://linkedin.com/in/VishalShaji">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:vishshaji03@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://terraless.com">
+      <img src="https://img.shields.io/badge/Portfolio-Live_Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 </div>
@@ -20,67 +18,71 @@
 
 ### 👨‍💻 About Me
 
-I am a **Frontend Cloud Engineer** with a background in Civil Engineering. I pivoted to tech because I enjoy the logic of building systems—whether it's concrete structures or cloud architectures. 
+I am a **Cloud & DevOps Engineer** currently working at **Cognizant**. I have a unique background in **Civil Engineering** (Minor in ML), which taught me structural analysis—a skill I now apply to designing scalable cloud architectures.
 
-My engineering background gave me a strong foundation in analytical problem-solving, which I now apply to full-stack development. I specialize in building user interfaces with **React/Next.js** and deploying them on scalable **AWS** infrastructure.
+I specialize in modernizing legacy systems, containerization, and building serverless applications. My workflow bridges the gap between full-stack development (React/Angular) and operations (AWS/Docker).
 
-* 🎓 **Education:** B.Tech in Civil Engineering (Minor in ML)
-* ☁️ **Focus:** Serverless Architectures, CI/CD pipelines, and Responsive UI.
-* 🔭 **Currently:** Deep diving into Next.js performance optimization.
+* 🔭 **Current Role:** Engineering a Smart Hotel Management System using Angular & .NET at Cognizant.
+* 🌱 **Focus:** optimizing CI/CD pipelines and reducing cloud infrastructure costs.
+* ⚡ **Fun Fact:** I host and manage my own Minecraft servers using AWS Lambda.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ The Toolkit
 
 <div align="center">
 
-| **Frontend** | **Backend & Scripting** | **Cloud & DevOps** |
+| **Cloud & DevOps** | **Frontend** | **Backend** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" /> | <img src="https://skillicons.dev/icons?i=django,python,bash,cs,dotnet" /> | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,prometheus,grafana" /> |
+| <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,prometheus,grafana,githubactions,bash" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,python,django,postgres,mongodb,dynamodb" /> |
 
 </div>
 
-<div align="center">
-  <br />
-  <b>AWS Toolbelt:</b><br/>
-  <code>EC2</code> <code>Lambda</code> <code>Amplify</code> <code>S3</code> <code>DynamoDB</code> <code>CloudFormation</code> <code>Cognito</code> <code>SQS</code> <code>IAM</code>
-</div>
+**AWS Expertise:** `EC2` `Lambda` `S3` `CloudWatch` `IAM` `Cognito` `ECS`
+
+---
+
+### 📂 Featured Deployments
+
+#### 1. [Terraless - Minecraft Server Hosting](https://www.terraless.com)
+A fully automated platform for hosting Minecraft servers. Unlike standard hosting, this uses a serverless backend to provision EC2 instances on-demand, saving costs when servers are empty.
+* **Tech:** `Next.js` `AWS Lambda` `EC2` `DynamoDB` `Cognito`
+* **DevOps:** Automated Linux scripting for game server provisioning.
+* **Live:** [www.terraless.com](https://www.terraless.com)
+
+#### 2. [Idha Art Stay](https://www.idhafortkochi.com)
+A production website for a boutique art homestay in Fort Kochi. Built for high SEO performance and client ease-of-use via a headless CMS.
+* **Tech:** `Next.js` `Sanity CMS` `Cloudflare CDN`
+* **DevOps:** CI/CD pipelines via GitHub Actions for automated deployment.
+* **Live:** [www.idhafortkochi.com](https://www.idhafortkochi.com)
+
+---
+
+### 💼 Professional Experience
+
+**Cognizant Technology Solutions** | *Programmer Analyst Trainee*
+* Leading a 5-member team in modernizing a full-stack platform.
+* Implemented Docker containerization and CI/CD pipelines to streamline deployment.
+* Integrated Prometheus & Grafana for real-time system monitoring.
+
+**Bommaku Constructions** | *Tech Consultant*
+* Directed the company's digital transformation using Cloud and Visualization tech.
+* Built architectural visualizations using Unreal Engine 5.
 
 ---
 
 ### 🏆 Certifications
 
-I believe in validating my skills with industry standards.
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-OCI_Architect_Associate-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-OCI_Foundations_Associate-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-OCI_AI_Foundations-F80000?style=flat&logo=oracle&logoColor=white" />
+</div>
 
-* ![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-* ![OCI](https://img.shields.io/badge/Oracle-Architect_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)
-* ![OCI](https://img.shields.io/badge/Oracle-Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)
-* ![OCI](https://img.shields.io/badge/Oracle-AI_Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)
-
----
-
-### 📂 Featured Projects
-
-#### 1. [Terraless - Server Hosting Platform](YOUR_REPO_LINK_HERE)
-A dedicated server hosting platform. It uses a serverless backend to manage and provision EC2 instances via automated Linux scripting.
-* **Tech:** `AWS Amplify` `Lambda` `EC2` `Linux Scripting`
-* **Highlight:** Automated the provisioning logic to reduce manual server setup time.
-
-#### 2. [Idha - Art Gallery](YOUR_REPO_LINK_HERE)
-A storytelling-focused website for an art gallery in Fort Kochi. Built to be visually immersive while maintaining high performance scores.
-* **Tech:** `Next.js` `React` `Tailwind`
-* **Highlight:** Optimized image loading and layout shift (CLS) for a seamless visual experience.
-
-#### 3. [Homebaker Discovery](YOUR_REPO_LINK_HERE)
-A search platform connecting local homebakers with customers.
-* **Tech:** `React` `Google Cloud` `AWS`
-* **Highlight:** Integrated cloud storage for user-uploaded portfolios.
-
----
-
-### 📊 GitHub Stats
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishhh03&show_icons=true&theme=midnight-purple&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhh03&layout=compact&theme=midnight-purple&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishhh03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhh03&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
 </div>
