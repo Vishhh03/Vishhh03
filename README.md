@@ -1,110 +1,86 @@
-# Hi there, I'm Vishal Shaji! 👋
+<div align="center">
+  <h1>Vishal Shaji</h1>
+  <h3>Frontend Cloud Engineer | AWS Certified</h3>
+  
+  <p>
+    <b>React • Next.js • AWS • DevOps</b>
+  </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishalshaji/Vishhh03/main/banner.gif" alt="Coding Banner" width="800"/>
-  <!-- You can create a cool banner GIF or static image and upload it to this repo -->
-</p>
-
-I'm a passionate **Frontend Cloud Engineer** with a strong foundation as a self-taught fullstack and cloud developer. I love building modern, scalable web applications and exploring the vast capabilities of cloud platforms, especially AWS. My background in Civil Engineering, with a Minor in Machine Learning, brings a unique analytical perspective to my development work.
+  <p>
+    <a href="https://linkedin.com/in/vishalshaji">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:vishshaji03@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-*   🚀 Self-taught fullstack & cloud developer passionate about modern tech.
-*   💡 Specializing in **Frontend Development (React)** and **Cloud Engineering (AWS)**.
-*   🏗️ Bridging the gap between innovative ideas and robust, user-friendly applications.
-*   🎓 B.Tech in Civil Engineering, Minor in Machine Learning - bringing analytical problem-solving to software.
-*   📜 **AWS Certified Cloud Practitioner**.
+I am a **Frontend Cloud Engineer** with a background in Civil Engineering. I pivoted to tech because I enjoy the logic of building systems—whether it's concrete structures or cloud architectures. 
+
+My engineering background gave me a strong foundation in analytical problem-solving, which I now apply to full-stack development. I specialize in building user interfaces with **React/Next.js** and deploying them on scalable **AWS** infrastructure.
+
+* 🎓 **Education:** B.Tech in Civil Engineering (Minor in ML)
+* ☁️ **Focus:** Serverless Architectures, CI/CD pipelines, and Responsive UI.
+* 🔭 **Currently:** Deep diving into Next.js performance optimization.
 
 ---
 
-### 🛠️ My Tech Stack & Skills
+### 🛠️ Tech Stack
 
-Here are some of the technologies and tools I work with:
+<div align="center">
 
-| Category          | Technologies                                                                 |
-| ----------------- | ---------------------------------------------------------------------------- |
-| **Frontend**      | `React` `JavaScript` `NextJs` `HTML5` `CSS3`  `Tailwind`                     |
-| **Backend**       | `Django` `ExpressJS` `.NET 8`
-| **Cloud Platforms** | `AWS` `GCP` `OCI`                                                          |
-| **AWS Services**  | `EC2` `Lambda` `Amplify` `S3` `DynamoDB` `CloudFormation` `Cognito` `SQS` `IAM`  |
-| **DevOps & CI/CD**| `Docker` `Kubernetes` `Terraform` `Jenkings` `Prometheus` `Grafana`          |
-| **Scripting**     | `Python` `Bash/Shell`                                                        |
-| **Networking**    | `VPC` `Load Balancers` `Cloudflare` `DNS Management`                         |
-| **Other Tools**   | `Git` `VS Code` `Unreal Engine`                                              |
+| **Frontend** | **Backend & Scripting** | **Cloud & DevOps** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" /> | <img src="https://skillicons.dev/icons?i=django,python,bash,cs,dotnet" /> | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,prometheus,grafana" /> |
 
-<!--
-Example with icons:
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,aws,gcp,docker,kubernetes,terraform,prometheus,grafana,django,python,bash,dynamodb,cloudflare)](https://skillicons.dev)
--->
+</div>
 
----
-
-### ✨ My Projects
-
-Here are some of the projects I'm proud of. You can find more on my repositories tab!
-
-1.  **Terraless - Server Hosting Website**
-    *   **Description:** A platform for AWS EC2-based dedicated server hosting, featuring an AWS Amplify frontend and AWS Lambda backend. Includes automated Linux scripting for server provisioning.
-    *   **Tech Stack:** `AWS EC2`, `AWS Amplify`, `AWS Lambda`, `Linux Scripting`
-    *   **Link:** <!--` [GitHub Repo Link]` `[Live Demo Link - if available]` -->
-
-2.  **Idha - Art Gallery Website**
-    *   **Description:** A visually captivating website for an art gallery in Fort Kochi, focusing on storytelling and responsive design.
-    *   **Tech Stack:** `NextJs`, `React`, `JavaScript`, `HTML`, `CSS`
-    *   **Link:** <!--` [GitHub Repo Link]` `[Live Demo Link - if available]` -->
-
-3.  **Homebaker Website**
-    *   **Description:** A search-engine-style platform for homebakers to list and showcase their services, built with React for performance and intuitive UX, integrated with cloud services for scalability.
-    *   **Tech Stack:** `React`, `Cloud Services (AWS/GCP)`
-    *   **Link:** <!-- `[GitHub Repo Link]` `[Live Demo Link - if available]` -->
+<div align="center">
+  <br />
+  <b>AWS Toolbelt:</b><br/>
+  <code>EC2</code> <code>Lambda</code> <code>Amplify</code> <code>S3</code> <code>DynamoDB</code> <code>CloudFormation</code> <code>Cognito</code> <code>SQS</code> <code>IAM</code>
+</div>
 
 ---
 
 ### 🏆 Certifications
 
-*   **AWS Certified Cloud Practitioner**
-*   **OCI Certified Architect Associate**
-*   **OCI Certified Foundations Associate**
-*   **OCI Certified AI Foundations Associate**
----
+I believe in validating my skills with industry standards.
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishhh03&show_icons=true&theme=radical&rank_icon=github" alt="Vishal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhh03&layout=compact&theme=radical" alt="Vishal's Top Languages" />
-</p>
-
-<!--
-Optional:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=radical" alt="GitHub Streak" />
-</p>
--->
+* ![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+* ![OCI](https://img.shields.io/badge/Oracle-Architect_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)
+* ![OCI](https://img.shields.io/badge/Oracle-Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)
+* ![OCI](https://img.shields.io/badge/Oracle-AI_Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
-### 🔗 Connect with Me
+### 📂 Featured Projects
 
-*   📧 Email: **vishshaji03@gmail.com**
-*   💼 LinkedIn: (https://linkedin.com/in/vishalshaji)
+#### 1. [Terraless - Server Hosting Platform](YOUR_REPO_LINK_HERE)
+A dedicated server hosting platform. It uses a serverless backend to manage and provision EC2 instances via automated Linux scripting.
+* **Tech:** `AWS Amplify` `Lambda` `EC2` `Linux Scripting`
+* **Highlight:** Automated the provisioning logic to reduce manual server setup time.
+
+#### 2. [Idha - Art Gallery](YOUR_REPO_LINK_HERE)
+A storytelling-focused website for an art gallery in Fort Kochi. Built to be visually immersive while maintaining high performance scores.
+* **Tech:** `Next.js` `React` `Tailwind`
+* **Highlight:** Optimized image loading and layout shift (CLS) for a seamless visual experience.
+
+#### 3. [Homebaker Discovery](YOUR_REPO_LINK_HERE)
+A search platform connecting local homebakers with customers.
+* **Tech:** `React` `Google Cloud` `AWS`
+* **Highlight:** Integrated cloud storage for user-uploaded portfolios.
 
 ---
 
-### 🌱 What I'm Currently Learning/Exploring
+### 📊 GitHub Stats
 
-*    "Building a new project with Next.js"
-
----
-
-### 🤝 Looking to Collaborate On
-
-*   Open to collaborating on innovative frontend projects, cloud-native applications, or DevOps automation tasks. Feel free to reach out!
-
----
-<!--
-Optional Fun Fact:
-⚡ Fun fact: I once [insert a fun, nerdy, or interesting fact about yourself, can be tech-related or not]
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishhh03&show_icons=true&theme=midnight-purple&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhh03&layout=compact&theme=midnight-purple&hide_border=true" height="150" alt="languages graph" />
+</div>
