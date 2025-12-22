@@ -8,7 +8,7 @@
     <a href="mailto:vishshaji03@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://terraless.com">
+    <a href="https://vishhh03.github.io/Portfolio/">
       <img src="https://img.shields.io/badge/Portfolio-Live_Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
