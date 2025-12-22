@@ -82,7 +82,10 @@ A production website for a boutique art homestay in Fort Kochi. Built for high S
 
 <br />
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vishshajis.vercel.app/api?username=Vishhh03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vishshajis.vercel.app/api/top-langs/?username=Vishhh03&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats-eta-hazel-81.vercel.app/api?username=Vishhh03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-eta-hazel-81.vercel.app/api/top-langs/?username=Vishhh03&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="languages graph" />
 </div>
