@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Cloud & DevOps Engineer** currently working at **Cognizant**. I have a unique background in **Civil Engineering** (Minor in ML), which taught me structural analysis—a skill I now apply to designing scalable cloud architectures.
+I am a **Cloud & DevOps Engineer** currently working at **Cognizant**. I have a unique background in **Civil Engineering** (Minor in Machine Learning), which taught me structural analysis—a skill I now apply to designing scalable cloud architectures.
 
 I specialize in modernizing legacy systems, containerization, and building serverless applications. My workflow bridges the gap between full-stack development (React/Angular) and operations (AWS/Docker).
 
