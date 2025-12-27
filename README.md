@@ -34,7 +34,7 @@ I specialize in modernizing legacy systems, containerization, and building serve
 
 | **Cloud & DevOps** | **Frontend** | **Backend** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,prometheus,grafana,githubactions,bash" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,python,django,postgres,mongodb,dynamodb" /> |
+| <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,jenkins,terraform,prometheus,grafana,githubactions,bash" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,python,django,postgres,mongodb,dynamodb" /> |
 
 </div>
 
@@ -45,9 +45,9 @@ I specialize in modernizing legacy systems, containerization, and building serve
 ### 📂 Featured Deployments
 
 #### 1. [Terraless - Minecraft Server Hosting](https://www.terraless.com)
-A fully automated platform for hosting Minecraft servers. Unlike standard hosting, this uses a serverless backend to provision EC2 instances on-demand, saving costs when servers are empty.
-* **Tech:** `Next.js` `AWS Lambda` `EC2` `DynamoDB` `Cognito`
-* **DevOps:** Automated Linux scripting for game server provisioning.
+A production-grade platform for on-demand game server hosting. Reduces costs by 90% using a "Stateless" ephemeral architecture on Hetzner Cloud with Btrfs atomic snapshots.
+* **Tech:** `Next.js` `Hetzner Cloud` `Btrfs` `AWS Lambda` `DynamoDB`
+* **DevOps:** Automated NVMe provisioning and atomic snapshot replication.
 * **Live:** [www.terraless.com](https://www.terraless.com)
 
 #### 2. [Idha Art Stay](https://www.idhafortkochi.com)
