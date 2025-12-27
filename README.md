@@ -75,9 +75,10 @@ A production website for a boutique art homestay in Fort Kochi. Built for high S
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-OCI_Architect_Associate-F80000?style=flat&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-OCI_Foundations_Associate-F80000?style=flat&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-OCI_AI_Foundations-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-OCI_Architect_Associate-F80000?style=flat&logo=oracle&oracleColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-OCI_Foundations_Associate-F80000?style=flat&logo=oracle&oracleColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-OCI_AI_Foundations-F80000?style=flat&logo=oracle&oracleColor=white" />
 </div>
 
 <br />
