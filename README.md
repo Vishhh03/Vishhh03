@@ -44,13 +44,19 @@ I specialize in modernizing legacy systems, containerization, and building serve
 
 ### 📂 Featured Deployments
 
-#### 1. [Terraless - Minecraft Server Hosting](https://www.terraless.com)
+#### 1. [Autonomous Resume Infrastructure](https://airesume-nine.vercel.app)
+A **self-healing, serverless platform** that hosts my resume and uses an AI agent (Llama 3 on Bedrock) to generate LaTeX patches for real-time updates.
+* **Tech:** `AWS ECS Fargate` `Lambda` `Bedrock` `Terraform` `Bun` `Next.js`
+* **DevOps:** Engineered a "Wake-on-Demand" architecture (0$ idle cost) with self-healing pipelines and strict budget enforcement.
+* **Live:** [airesume-nine.vercel.app](https://airesume-nine.vercel.app) | [Source Code](https://github.com/Vishhh03/Latex-Resume)
+
+#### 2. [Terraless - Minecraft Server Hosting](https://www.terraless.com)
 A production-grade platform for on-demand game server hosting. Reduces costs by 90% using a "Stateless" ephemeral architecture on Hetzner Cloud with Btrfs atomic snapshots.
 * **Tech:** `Next.js` `Hetzner Cloud` `Btrfs` `AWS Lambda` `DynamoDB`
 * **DevOps:** Automated NVMe provisioning and atomic snapshot replication.
 * **Live:** [www.terraless.com](https://www.terraless.com)
 
-#### 2. [Idha Art Stay](https://www.idhafortkochi.com)
+#### 3. [Idha Art Stay](https://www.idhafortkochi.com)
 A production website for a boutique art homestay in Fort Kochi. Built for high SEO performance and client ease-of-use via a headless CMS.
 * **Tech:** `Next.js` `Sanity CMS` `Cloudflare CDN`
 * **DevOps:** CI/CD pipelines via GitHub Actions for automated deployment.
