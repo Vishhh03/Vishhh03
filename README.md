@@ -10,17 +10,17 @@ I enjoy building cloud-native applications, designing scalable infrastructure, a
 
 ## What I Work With
 
-### Cloud & DevOps
-AWS • Terraform • Docker • Kubernetes • Cloudflare • GitHub Actions • Linux
+<div align="center">
 
-### Backend
-Node.js • Python • Express • FastAPI • REST APIs
+| **Cloud & DevOps** | **Frontend** | **Backend** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,jenkins,terraform,prometheus,grafana,githubactions,bash" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,python,django,postgres,mongodb,dynamodb" /> |
 
-### Frontend
-React • Next.js • TypeScript • Tailwind CSS
+</div>
 
-### Databases
-DynamoDB • MongoDB • PostgreSQL • Cloudflare D1
+**AWS Expertise:** `EC2` `Lambda` `S3` `CloudWatch` `IAM` `Cognito` `ECS`
+
+---
 
 ---
 
