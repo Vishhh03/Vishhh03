@@ -16,19 +16,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I am a **Cloud & DevOps Engineer** currently working at **Cognizant**. I have a unique background in **Civil Engineering** (Minor in Machine Learning), which taught me structural analysis—a skill I now apply to designing scalable cloud architectures.
+I am a **Cloud & DevOps Engineer** currently working at **Cognizant**. I have a unique background in **Civil Engineering** (Minor in Machine Learning), which taught me structural analysis, a skill I now apply to designing scalable cloud architectures.
 
 I specialize in modernizing legacy systems, containerization, and building serverless applications. My workflow bridges the gap between full-stack development (React/Angular) and operations (AWS/Docker).
 
-* 🔭 **Current Role:** Engineering a Smart Hotel Management System using Angular & .NET at Cognizant.
-* 🌱 **Focus:** optimizing CI/CD pipelines and reducing cloud infrastructure costs.
-* ⚡ **Fun Fact:** I host and manage my own Minecraft servers using AWS Lambda.
+*  **Current Role:** Engineering a Smart Hotel Management System using Angular & .NET at Cognizant.
+*  **Focus:** optimizing CI/CD pipelines and reducing cloud infrastructure costs.
+*  **Fun Fact:** I host and manage my own Minecraft servers using AWS Lambda.
 
 ---
 
-### 🛠️ The Toolkit
+### The Toolkit
 
 <div align="center">
 
@@ -64,7 +64,7 @@ A production website for a boutique art homestay in Fort Kochi. Built for high S
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 **Cognizant Technology Solutions** | *Programmer Analyst Trainee*
 * Leading a 5-member team in modernizing a full-stack platform.
@@ -77,7 +77,7 @@ A production website for a boutique art homestay in Fort Kochi. Built for high S
 
 ---
 
-### 🏆 Certifications
+### Certifications
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
