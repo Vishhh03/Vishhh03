@@ -22,11 +22,9 @@ I enjoy building cloud-native applications, designing scalable infrastructure, a
 
 ---
 
----
-
 ## 🏗 Featured Projects
 
-### 🌍 TerraLess
+### TerraLess
 Production-ready Minecraft hosting platform focused on cost-efficient cloud infrastructure.
 
 **Tech:** AWS Lambda, Docker, Terraform, Cloudflare, DynamoDB
@@ -40,7 +38,7 @@ Production-ready Minecraft hosting platform focused on cost-efficient cloud infr
 
 ---
 
-### 📄 Resume Infrastructure
+### Resume Infrastructure
 
 Self-updating resume platform powered by AI and Infrastructure as Code.
 
@@ -53,7 +51,7 @@ Self-updating resume platform powered by AI and Infrastructure as Code.
 
 ---
 
-### 🎨 Idha Art Stay
+### Idha Art Stay
 
 Website for a boutique art homestay in Fort Kochi.
 
@@ -63,14 +61,14 @@ Website for a boutique art homestay in Fort Kochi.
 - Performance optimized
 - Automated deployment workflows
 
-🔗 https://idhaartstay.com
+🔗 https://idhafortkochi.com
 
 ---
 
 ## 💼 Experience
 
-### Cognizant Technology Solutions
-**Programmer Analyst Trainee**
+### Cognizant Technology Solutions 
+**Programmer Analyst Trainee** July 2025 - Present
 
 - Building enterprise applications using .NET and Angular
 - Working with Docker, CI/CD, and cloud technologies
@@ -95,8 +93,7 @@ More contributions coming soon.
 
 Currently pursuing:
 - AWS Solutions Architect Associate
-- Terraform Associate
-
+- Claude Certified Architect
 ---
 
 ## 📈 Current Focus
@@ -111,11 +108,11 @@ Currently pursuing:
 
 ## 📫 Connect With Me
 
-🌐 https://www.vishalshaji.com
+🌐 Portfolio: https://www.vishalshaji.com
 
 💼 LinkedIn: https://linkedin.com/in/vishalshaji
 
-📧 your-email@example.com
+📧 Email: Vishshaji03@gmail.com
 
 ---
 
