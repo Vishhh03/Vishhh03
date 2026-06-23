@@ -1,98 +1,122 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=220&section=header&text=Vishal%20Shaji&fontSize=80&fontAlignY=35&desc=Cloud%20and%20DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" alt="Vishal Shaji Header" />
-  
-  <p>
-    <a href="https://linkedin.com/in/VishalShaji">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:vishshaji03@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://vishalshaji.com">
-      <img src="https://img.shields.io/badge/Portfolio-Live_Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
-</div>
+# Hey, I'm Vishal Shaji
+
+### Cloud & DevOps Engineer | Full Stack Developer
+
+I'm a Programmer Analyst Trainee at Cognizant with a background in Civil Engineering and a Minor in Machine Learning.
+
+I enjoy building cloud-native applications, designing scalable infrastructure, automating deployments, and turning ideas into production-ready systems.
 
 ---
 
-### About Me
+## What I Work With
 
-I am a **Cloud & DevOps Engineer** currently working at **Cognizant**. I have a unique background in **Civil Engineering** (Minor in Machine Learning), which taught me structural analysis, a skill I now apply to designing scalable cloud architectures.
+### Cloud & DevOps
+AWS • Terraform • Docker • Kubernetes • Cloudflare • GitHub Actions • Linux
 
-I specialize in modernizing legacy systems, containerization, and building serverless applications. My workflow bridges the gap between full-stack development (React/Angular) and operations (AWS/Docker).
+### Backend
+Node.js • Python • Express • FastAPI • REST APIs
 
-*  **Current Role:** Engineering a Smart Hotel Management System using Angular & .NET at Cognizant.
-*  **Focus:** optimizing CI/CD pipelines and reducing cloud infrastructure costs.
-*  **Fun Fact:** I host and manage my own Minecraft servers using AWS Lambda.
+### Frontend
+React • Next.js • TypeScript • Tailwind CSS
 
----
-
-### The Toolkit
-
-<div align="center">
-
-| **Cloud & DevOps** | **Frontend** | **Backend** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,jenkins,terraform,prometheus,grafana,githubactions,bash" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,python,django,postgres,mongodb,dynamodb" /> |
-
-</div>
-
-**AWS Expertise:** `EC2` `Lambda` `S3` `CloudWatch` `IAM` `Cognito` `ECS`
+### Databases
+DynamoDB • MongoDB • PostgreSQL • Cloudflare D1
 
 ---
 
-### 📂 Featured Deployments
+## 🏗 Featured Projects
 
-#### 1. [Autonomous Resume Infrastructure](https://airesume-nine.vercel.app)
-A **self-healing, serverless platform** that hosts my resume and uses an AI agent (Llama 3 on Bedrock) to generate LaTeX patches for real-time updates.
-* **Tech:** `AWS ECS Fargate` `Lambda` `Bedrock` `Terraform` `Bun` `Next.js`
-* **DevOps:** Engineered a "Wake-on-Demand" architecture (0$ idle cost) with self-healing pipelines and strict budget enforcement.
-* **Live:** [airesume-nine.vercel.app](https://airesume-nine.vercel.app) | [Source Code](https://github.com/Vishhh03/Latex-Resume)
+### 🌍 TerraLess
+Production-ready Minecraft hosting platform focused on cost-efficient cloud infrastructure.
 
-#### 2. [Terraless - Minecraft Server Hosting](https://www.terraless.com)
-A production-grade platform for on-demand game server hosting. Reduces costs by 90% using a "Stateless" ephemeral architecture on Hetzner Cloud with Btrfs atomic snapshots.
-* **Tech:** `Next.js` `Hetzner Cloud` `Btrfs` `AWS Lambda` `DynamoDB`
-* **DevOps:** Automated NVMe provisioning and atomic snapshot replication.
-* **Live:** [www.terraless.com](https://www.terraless.com)
+**Tech:** AWS Lambda, Docker, Terraform, Cloudflare, DynamoDB
 
-#### 3. [Idha Art Stay](https://www.idhafortkochi.com)
-A production website for a boutique art homestay in Fort Kochi. Built for high SEO performance and client ease-of-use via a headless CMS.
-* **Tech:** `Next.js` `Sanity CMS` `Cloudflare CDN`
-* **DevOps:** CI/CD pipelines via GitHub Actions for automated deployment.
-* **Live:** [www.idhafortkochi.com](https://www.idhafortkochi.com)
+- Spot-instance architecture
+- Automated provisioning
+- Snapshot management
+- Cost-optimized deployment strategy
+
+🔗 https://terraless.com
 
 ---
 
-### Professional Experience
+### 📄 Resume Infrastructure
 
-**Cognizant Technology Solutions** | *Programmer Analyst Trainee*
-* Leading a 5-member team in modernizing a full-stack platform.
-* Implemented Docker containerization and CI/CD pipelines to streamline deployment.
-* Integrated Prometheus & Grafana for real-time system monitoring.
+Self-updating resume platform powered by AI and Infrastructure as Code.
 
-**Bommaku Constructions** | *Tech Consultant*
-* Directed the company's digital transformation using Cloud and Visualization tech.
-* Built architectural visualizations using Unreal Engine 5.
+**Tech:** AWS Bedrock, Lambda, Terraform, Docker
+
+- Automated LaTeX generation
+- CI/CD pipeline
+- Cloud-native architecture
+- Version-controlled resume deployments
 
 ---
 
-### Certifications
+### 🎨 Idha Art Stay
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-OCI_Architect_Associate-F80000?style=flat&logo=oracle&oracleColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-OCI_Foundations_Associate-F80000?style=flat&logo=oracle&oracleColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-OCI_AI_Foundations-F80000?style=flat&logo=oracle&oracleColor=white" />
-</div>
+Website for a boutique art homestay in Fort Kochi.
 
-<br />
+**Tech:** Next.js, Cloudflare, Headless CMS
 
-### 📊 GitHub Stats
+- SEO-focused architecture
+- Performance optimized
+- Automated deployment workflows
 
-<div align="center">
-  <img src="https://github-readme-stats-eta-hazel-81.vercel.app/api?username=Vishhh03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats-eta-hazel-81.vercel.app/api/top-langs/?username=Vishhh03&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="languages graph" />
-</div>
+🔗 https://idhaartstay.com
+
+---
+
+## 💼 Experience
+
+### Cognizant Technology Solutions
+**Programmer Analyst Trainee**
+
+- Building enterprise applications using .NET and Angular
+- Working with Docker, CI/CD, and cloud technologies
+- Learning large-scale software engineering practices
+
+---
+
+## 🌱 Open Source
+
+### FreeCodeCamp
+Merged contributions into the FreeCodeCamp repository and participated in community-driven development workflows.
+
+More contributions coming soon.
+
+---
+
+## 📜 Certifications
+
+- AWS Certified Cloud Practitioner
+- OCI AI Foundations Associate
+- OCI Foundations Associate
+
+Currently pursuing:
+- AWS Solutions Architect Associate
+- Terraform Associate
+
+---
+
+## 📈 Current Focus
+
+- Data Structures & Algorithms
+- Terraform & Infrastructure as Code
+- Kubernetes
+- AWS Solutions Architect Associate
+- Open Source Contributions
+
+---
+
+## 📫 Connect With Me
+
+🌐 https://www.vishalshaji.com
+
+💼 LinkedIn: https://linkedin.com/in/vishalshaji
+
+📧 your-email@example.com
+
+---
+
+> Building cloud-native systems, learning in public, and contributing to open source.
