@@ -16,7 +16,7 @@ I enjoy building cloud-native applications, designing scalable infrastructure, a
 
 | **Cloud & DevOps** | **Frontend** | **Backend** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,jenkins,terraform,prometheus,grafana,githubactions,bash" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,python,django,postgres,mongodb,dynamodb" /> |
+| <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,jenkins,terraform,prometheus,grafana,githubactions,bash" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,python,django,postgres,mongodb,dynamodb,go" /> |
 
 </div>
 
