@@ -3,7 +3,9 @@
 ### Cloud & DevOps Engineer | Full Stack Developer
 
 I'm a Programmer Analyst at Cognizant with a background in Civil Engineering and a Minor in Machine Learning.
+
 Working as an L2 Application Support Engineer @ United Parcel Services UPS
+
 I enjoy building cloud-native applications, designing scalable infrastructure, automating deployments, and turning ideas into production-ready systems.
 
 ---
