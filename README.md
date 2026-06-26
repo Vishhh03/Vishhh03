@@ -90,7 +90,7 @@ More contributions coming soon.
 ## 📜 Certifications
 
 - AWS Certified Cloud Practitioner
-- OCI AI Foundations Associate
+- AWS Certified AI Practitioner
 - OCI Foundations Associate
 
 Currently pursuing:
