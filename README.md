@@ -70,9 +70,9 @@ Website for a boutique art homestay in Fort Kochi.
 ## 💼 Experience
 
 ### Cognizant Technology Solutions 
-**Programmer Analyst - L2 App Support @ United Parcel Service (UPS) ** July 2025 - Present
+Programmer Analyst - **L2 App Support** @ **United Parcel Service (UPS)** - July 2025 - Present
 
--  Contributed to a high-throughput, enterprise-level .NET / C# codebase for UPS Logistics Services, maintaining robust backend APIs and microservices.
+- Contributed to a high-throughput, enterprise-level .NET / C# codebase for UPS Logistics Services, maintaining robust backend APIs and microservices.
 - Investigated complex application failures and database issues utilizing SQL Server Management Studio (SSMS), log analytics, and Dynatrace production monitoring tools.
 - Automated systems administration, diagnostics, and deployment verification workflows using PowerShell scripting, saving hours of manual toil.
 
