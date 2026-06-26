@@ -55,15 +55,19 @@ Self-updating resume platform powered by AI and Infrastructure as Code.
 
 ### Idha Art Stay
 
-Website for a boutique art homestay in Fort Kochi.
+Freelance Website for a boutique art homestay in Fort Kochi.
 
 **Tech:** Next.js, Cloudflare, Headless CMS
-
-- SEO-focused architecture
-- Performance optimized
-- Automated deployment workflows
-
 🔗 https://idhafortkochi.com
+
+---
+
+### Rest N Revel
+
+Freelance Wordpress Website for an ecommerce business.
+
+**Tech:** Wordpress, Mariadb, PHP 
+🔗 https://restnrevel.com
 
 ---
 
@@ -75,15 +79,6 @@ Programmer Analyst - **L2 App Support** @ **United Parcel Service (UPS)** - July
 - Contributed to a high-throughput, enterprise-level .NET / C# codebase for UPS Logistics Services, maintaining robust backend APIs and microservices.
 - Investigated complex application failures and database issues utilizing SQL Server Management Studio (SSMS), log analytics, and Dynatrace production monitoring tools.
 - Automated systems administration, diagnostics, and deployment verification workflows using PowerShell scripting, saving hours of manual toil.
-
----
-
-## 🌱 Open Source
-
-### FreeCodeCamp
-Merged contributions into the FreeCodeCamp repository and participated in community-driven development workflows.
-
-More contributions coming soon.
 
 ---
 
