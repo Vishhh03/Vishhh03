@@ -26,7 +26,7 @@ I enjoy building cloud-native applications, designing scalable infrastructure, a
 
 ## 🏗 Featured Projects
 
-### TerraLess
+### AetherRuin
 Production-ready Minecraft hosting platform focused on cost-efficient cloud infrastructure.
 
 **Tech:** AWS Lambda, Docker, Terraform, Cloudflare, DynamoDB
@@ -36,7 +36,7 @@ Production-ready Minecraft hosting platform focused on cost-efficient cloud infr
 - Snapshot management
 - Cost-optimized deployment strategy
 
-🔗 https://terraless.com
+🔗 https://aetherruin.com
 
 ---
 
