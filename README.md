@@ -40,9 +40,7 @@ Production-ready Minecraft hosting platform focused on cost-efficient cloud infr
 
 ---
 
-### Resume Infrastructure
-
-Self-updating resume platform powered by AI and Infrastructure as Code.
+### Resume Infrastructure - Self-updating resume platform powered by AI and Infrastructure as Code.
 
 **Tech:** AWS Bedrock, Lambda, Terraform, Docker
 
@@ -51,20 +49,13 @@ Self-updating resume platform powered by AI and Infrastructure as Code.
 - Cloud-native architecture
 - Version-controlled resume deployments
 
----
-
-### Idha Art Stay
-
-Freelance Website for a boutique art homestay in Fort Kochi.
+### Idha Art Stay - Freelance Website for a boutique art homestay in Fort Kochi.
 
 **Tech:** Next.js, Cloudflare, Headless CMS
 🔗 https://idhafortkochi.com
 
----
 
-### Rest N Revel
-
-Freelance Wordpress Website for an ecommerce business.
+### Rest N Revel - Freelance Wordpress Website for an ecommerce business.
 
 **Tech:** Wordpress, Mariadb, PHP 
 🔗 https://restnrevel.com
@@ -93,24 +84,8 @@ Currently pursuing:
 - Claude Certified Architect
 ---
 
-## 📈 Current Focus
-
-- Data Structures & Algorithms
-- Terraform & Infrastructure as Code
-- Kubernetes
-- AWS Solutions Architect Associate
-- Open Source Contributions
-
----
-
 ## 📫 Connect With Me
 
 🌐 Portfolio: https://www.vishalshaji.com
-
 💼 LinkedIn: https://linkedin.com/in/vishalshaji
-
 📧 Email: Vishshaji03@gmail.com
-
----
-
-> Building cloud-native systems, learning in public, and contributing to open source.
