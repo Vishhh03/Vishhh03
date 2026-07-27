@@ -76,5 +76,6 @@ Programmer Analyst - **L2 App Support** @ **United Parcel Service (UPS)** - July
 ## 📜 Certifications
 
 - AWS Certified Cloud Practitioner
+- Claude Certified Architect - Foundations
 - AWS Certified AI Practitioner
 - OCI Foundations Associate
