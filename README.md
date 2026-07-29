@@ -24,17 +24,12 @@ I enjoy building cloud-native applications, designing scalable infrastructure, a
 
 ---
 
-## 🏗 Featured Projects
+## Check out my Projects
 
 ### AetherRuin
-Production-ready Minecraft hosting platform focused on cost-efficient cloud infrastructure.
+Game server hosting platform focused on cost-efficient cloud infrastructure.
 
-**Tech:** AWS Lambda, Docker, Terraform, Cloudflare, DynamoDB
-
-- Spot-instance architecture
-- Automated provisioning
-- Snapshot management
-- Cost-optimized deployment strategy
+**Tech:** AWS, Cloudflare
 
 🔗 https://aetherruin.com
 
@@ -42,18 +37,12 @@ Production-ready Minecraft hosting platform focused on cost-efficient cloud infr
 
 ### Resume Infrastructure - Self-updating resume platform powered by AI and Infrastructure as Code.
 
-**Tech:** AWS Bedrock, Lambda, Terraform, Docker
-
-- Automated LaTeX generation
-- CI/CD pipeline
-- Cloud-native architecture
-- Version-controlled resume deployments
+**Tech:** AWS Bedrock, Lambda, Terraform, Docker, ECS
 
 ### Idha Art Stay - Freelance Website for a boutique art homestay in Fort Kochi.
 
 **Tech:** Next.js, Cloudflare, Headless CMS
 🔗 https://idhafortkochi.com
-
 
 ### Rest N Revel - Freelance Wordpress Website for an ecommerce business.
 
