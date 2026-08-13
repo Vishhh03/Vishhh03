@@ -32,39 +32,3 @@ Game server hosting platform focused on cost-efficient cloud infrastructure.
 **Tech:** AWS, Cloudflare
 
 🔗 https://aetherruin.com
-
----
-
-### Resume Infrastructure - Self-updating resume platform powered by AI and Infrastructure as Code.
-
-**Tech:** AWS Bedrock, Lambda, Terraform, Docker, ECS
-
-### Idha Art Stay - Freelance Website for a boutique art homestay in Fort Kochi.
-
-**Tech:** Next.js, Cloudflare, Headless CMS
-🔗 https://idhafortkochi.com
-
-### Rest N Revel - Freelance Wordpress Website for an ecommerce business.
-
-**Tech:** Wordpress, Mariadb, PHP 
-🔗 https://restnrevel.com
-
----
-
-## 💼 Experience
-
-### Cognizant Technology Solutions 
-Programmer Analyst - **L2 App Support** @ **United Parcel Service (UPS)** - July 2025 - Present
-
-- Contributed to a high-throughput, enterprise-level .NET / C# codebase for UPS Logistics Services, maintaining robust backend APIs and microservices.
-- Investigated complex application failures and database issues utilizing SQL Server Management Studio (SSMS), log analytics, and Dynatrace production monitoring tools.
-- Automated systems administration, diagnostics, and deployment verification workflows using PowerShell scripting, saving hours of manual toil.
-
----
-
-## 📜 Certifications
-
-- AWS Certified Cloud Practitioner
-- Claude Certified Architect - Foundations
-- AWS Certified AI Practitioner
-- OCI Foundations Associate
