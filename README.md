@@ -29,6 +29,13 @@ I enjoy building cloud-native applications, designing scalable infrastructure, a
 ### AetherRuin
 Game server hosting platform focused on cost-efficient cloud infrastructure.
 
-**Tech:** AWS, Cloudflare
+**Tech:** AWS, Cloudflare, NextJs
 
 🔗 https://aetherruin.com
+
+### Scout11
+Scout 11 is where football connections turn into opportunities, from finding your next club, discovering new talent and connecting with the right people to developing your game, finding a mentor or even picking up the boots for your next trial.
+
+**Tech:** AWS, Cloudflare, NextJs
+
+🔗 https://scout11.co.uk
