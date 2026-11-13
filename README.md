@@ -1,8 +1,8 @@
 # Hey, I'm Vishal Shaji
 
-### Cloud & DevOps Engineer | Full Stack Developer
+### Software Developer @ Cognizant
 
-I'm a Programmer Analyst at Cognizant with a background in Civil Engineering and a Minor in Machine Learning.
+I'm a Software Developer at Cognizant with a background in Civil Engineering and a Minor in Machine Learning.
 <br>
 Working as an L2 Engineer @ United Parcel Services UPS
 <br>
